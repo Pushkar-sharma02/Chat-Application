@@ -9,7 +9,7 @@ import { getStorage} from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDVjLx-NbCCps-yAU-vUhJUuOAC37I9hm8",
+  //apiKey: "AIzaSyDVjLx-NbCCps-yAU-vUhJUuOAC37I9hm8",
   authDomain: "chatterapex.firebaseapp.com",
   projectId: "chatterapex",
   storageBucket: "chatterapex.appspot.com",
